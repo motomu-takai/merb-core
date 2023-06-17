@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix ONNX GPU inference bug (#6840)
