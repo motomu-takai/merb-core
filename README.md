@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update Twitter icon in Docs (#7711)
