@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
