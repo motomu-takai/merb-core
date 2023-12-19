@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
