@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Compare plt.get_backend() in lowercase (#8409)
