@@ -1,1 +1,1 @@
-Update README.md
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
