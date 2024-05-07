@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
