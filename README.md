@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix Neural Magic links (#9144)
