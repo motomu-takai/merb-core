@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Resize angle, count, and stage on keypoint number change (#7598)
