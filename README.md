@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add NCNN Docs Integrations Page (#8562)
